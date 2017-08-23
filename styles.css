@@ -1,0 +1,15 @@
+#wrapper {
+    width: 970px;
+    margin: 0 auto;
+    padding-top: 100px;
+    border: 4px solid black;
+}
+img {
+    width: 100px;
+    border: 2px solid black;
+}
+#outerdiv {
+    width: 60%;
+    margin-bottom: 100px;
+    margin-left: 250px;
+}
